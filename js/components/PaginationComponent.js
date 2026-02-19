@@ -55,6 +55,7 @@ export class PaginationComponent {
       this.emit();
       this.render();
     };
+    
   }
 
   pageButtons() {
